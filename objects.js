@@ -1,1 +1,1 @@
-let playlist = {mike: "song1"};
+var playlist = {mike: "song1"};
